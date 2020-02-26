@@ -1,13 +1,13 @@
 <h1 align="center">
-  <img alt="React Project" title="React Project" src="./assets/2.png" width="500px" />
+  <img alt="React Project" title="RocketshoesImg" src="./assets/2.png" width="500px" />
 </h1>
 
 <h1 align="center">
-  <img alt="React Project" title="React Project" src="./assets/1.png" width="500px" />
+  <img alt="React Project" title="RocketshoesImg" src="./assets/1.png" width="500px" />
 </h1>
 
 <h3 align="center">
-  React Project
+  Rocketshoes
 </h3>
 
 <p> Projeto criado durante o bootcamp goStack da Rocketseeat. Trata-se de um e-commerce desenvolvido para estudos das libs Redux, Redux Saga e React Hooks. </p>
