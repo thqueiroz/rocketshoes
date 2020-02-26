@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import {darken} from 'polished';
+import { darken } from 'polished';
 
 export const Container = styled.div`
   padding: 30px;
@@ -24,7 +24,7 @@ export const Container = styled.div`
 
     &:hover {
       background: ${darken(0.03, '#7159c1')};
-    }    
+    }
   }
 `;
 
@@ -42,8 +42,8 @@ export const ProductTable = styled.table`
     border-bottom: 1px solid #eee;
   }
 
-  img{
-    height: 100%;
+  img {
+    height: 100px;
   }
 
   strong {
@@ -55,7 +55,7 @@ export const ProductTable = styled.table`
     display: block;
     margin-top: 5px;
     font-size: 18px;
-    font-weight: bold
+    font-weight: bold;
   }
 
   div {
@@ -74,9 +74,8 @@ export const ProductTable = styled.table`
   button {
     background: none;
     border: 0;
-    padding:6px;
+    padding: 6px;
   }
-  
 `;
 
 export const Total = styled.div`
@@ -89,7 +88,7 @@ export const Total = styled.div`
   }
 
   strong {
-    font-size:28px;
+    font-size: 28px;
     margin-left: 5px;
   }
 `;
